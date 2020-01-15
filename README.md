@@ -1,2 +1,0 @@
-# qinjiang
-Printer service
